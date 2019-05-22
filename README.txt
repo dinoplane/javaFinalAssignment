@@ -12,6 +12,8 @@ src/TestQuickSort.java
 
 resources/RunTimes.csv
     - Output of tests done on quicksort.
+    - Each row represents a different array size (total 20)
+    - Each column represents a different recursion limit (total 150)
 
 README.txt
     - description of submitted files
