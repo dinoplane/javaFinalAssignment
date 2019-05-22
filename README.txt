@@ -10,8 +10,8 @@ src/TestQuickSort.java
     - A class that times how long the quicksort algorithm takes
       with various sizes of arrays and different recursion limits.
 
-resources/RUN.txt
-    - console output of MyTunes
+resources/RunTimes.csv
+    - Output of tests done on quicksort.
 
 README.txt
     - description of submitted files
